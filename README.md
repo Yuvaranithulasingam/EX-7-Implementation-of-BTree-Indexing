@@ -1,4 +1,6 @@
-## Date:           # EX-7-Implementation-of-BTree-Indexing
+## Date:          
+
+# EX-7-Implementation-of-BTree-Indexing
 
 ## AIM:
 To implement B-tree indexing and to search an element in the B-tree using python
@@ -120,7 +122,7 @@ if __name__ == '__main__':
 main()
 ```
 ## OUTPUT:
-image
+![image](https://github.com/Yuvaranithulasingam/EX-7-Implementation-of-BTree-Indexing/assets/121418522/df9d9a27-4602-476b-8486-7f032b8c424f)
 
 ## RESULT:
 Thus the python program for the implementation of B-Tree Indexing has been executed successfully
